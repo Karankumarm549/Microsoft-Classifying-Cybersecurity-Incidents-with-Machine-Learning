@@ -18,5 +18,13 @@ Cybersecurity incidents are becoming more frequent and sophisticated. The goal o
 - Automated Reporting: Use predictions to generate real-time incident reports.
 # Model Comparison with Accuracy Score:
 The table below provides an overview of the performance of various models, summarized through their Accuracy scores. The comparison highlights the ranking and effectiveness of each model in predicting sales.
+| **Model Name**          | **Accuracy Score** |
+|--------------------------|--------------------|
+| Logistic Regression      | 0.6503            |
+| Decision Tree            | 0.6737            |
+| Random Forest            | 0.6741            |
+| Gradient Boosting        | 0.6712            |
+| K-Nearest Neighbors (KNN)| 0.6694            |
+| Support Vector Machine (SVM)| **0.6952**     |
 
 # Result:
